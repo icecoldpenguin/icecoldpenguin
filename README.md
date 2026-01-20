@@ -1,11 +1,25 @@
 # 🐧 Hi, I’m penguin
 
-I’m learning as i go.
-I like making small things on the web, learning stuff that looks cool, and slowly connecting the dots.
+I’m learning as i go. <br>
+I like making small things on the web, learning stuff that looks cool, and slowly connecting the dots. <br>
 I use arch btw.
 
 # 💫 About Me:
-🔭 i’m currently working on  <br>- small Python projects (scripts, bots, experiments)<br>- Discord bots and simple automation<br>- beginner JavaScript projects for the web<br><br>🌱 i’m currently learning<br>- Python (basics, moving toward intermediate)<br>- JavaScript (projects > tutorials)<br>- How systems and networks are designed, not just how to code<br><br>👯 i’m looking to collaborate on<br>- Beginner to intermediate web projects<br>- Small tools, bots, or experiments<br>- Stuff where it’s okay to not know everything<br><br>🤔 i’m looking for help with  <br>- creating a clear roadmap<br>- understanding how frontend, backend, and systems work
+## 🔭 i’m currently working on
+- small Python projects (scripts, bots, experiments)
+- Discord bots and simple automation
+-  beginner JavaScript projects for the web
+## 🌱 i’m currently learning
+- Python (basics, moving toward intermediate)
+- JavaScript (projects > tutorials)
+- How systems and networks are designed, not just how to code
+## 👯 i’m looking to collaborate on
+- Beginner to intermediate web projects
+- Small tools, bots, or experiments
+- Stuff where it’s okay to not know everything
+## 🤔 i’m looking for help with
+- creating a clear roadmap
+- understanding how frontend, backend, and systems work
 
 
 ## 🌐 Socials:
