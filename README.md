@@ -1,4 +1,4 @@
-# 🐧 hi, i’m penguin
+# 🐧 Hi, I’m penguin
 
 I’m learning as i go.
 I like making small things on the web, learning stuff that looks cool, and slowly connecting the dots.
@@ -29,12 +29,12 @@ I use arch btw.
 - Python basics and bots
 
 ## 📫 how to reach me  
-— Discord (main hangout)
-— GitHub (work in progress)
+- Discord (main hangout)
+- GitHub (work in progress)
 
 ## 😄 pronouns
 - he / him
 - Ice/snow 🍧
 
 ## ⚡ fun fact  
-— I like systems, but my own learning process is still chaotic. Working on it.
+- I like systems, but my own learning process is still chaotic. Working on it.
